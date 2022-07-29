@@ -86,7 +86,7 @@ dist
   export default App;
   ```
 
-6. 安装 React的依赖,`react`和`react-dom`
+7. 安装 React的依赖,`react`和`react-dom`
 ```bash
   npm install react react-dom
 ```
@@ -162,7 +162,7 @@ module.exports = {
 
 ```
 
-9. 配置脚本
+3. 配置脚本
 在上一步我们已经完成 webpack的配置，最后一步是配置打包和项目启动的命令。
 在`package.json`的`script`字段中添加两个命令:
 ```json
